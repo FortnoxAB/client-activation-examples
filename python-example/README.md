@@ -23,6 +23,3 @@ The webserver can be started with the following command:
 
 Then navigate to:
 `https://localhost:9999/authorization`
-
-## License
-Copyright © 2019 Fortnox
