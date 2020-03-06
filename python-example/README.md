@@ -12,7 +12,7 @@ Install the requirements with pip. https://pip.pypa.io/en/stable/installing/
 #
 If you prefer to not install the dependencies globally use a virtual environment instead.
 * Create the virtual environment: ```python3 -m venv env``` (The following command requires python3-venv to be installed)
-* Activate the virtual environment: ```source env/bin/activate``` (https://virtualenv.pypa.io/en/stable/userguide/#activate-script)
+* Activate the virtual environment: ```source env/bin/activate``` (https://virtualenv.pypa.io/en/latest/user_guide.html#activators)
 * Install the requirements in the virtual environment: ```pip install -r requirements.txt```
 * Notice that the virtual environment must be activated before starting the webserver in this case.
 * To leave the virtual environment use: ```deactivate```
